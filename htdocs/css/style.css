@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0000CC;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+tbody {
+    display: inline-block;
+    width: 100%;
+    overflow: auto;
+}
+
+
+h1 {
+	color:blue;
+	fon-family: verdana;
+	fon_size: 300%;
+}
+
+#gegevens {
+	 width: "25%";
+	 border: "0";
+}
+
+/*img {
+	height: 50px;
+	width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 50px;	
+}*/
+
+#cover {
+	height: 100px;
+	width: 50px;
+}
